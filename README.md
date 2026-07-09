@@ -7,30 +7,29 @@ This repository serves as the official academic deposit and timestamp proof for 
 - **Current Status**: Non-profit, non-fame seeking. Purely for the preservation of ideas.
 
 📂 **Core Theory Files (Timestamp Locked)**
-*All filenames below are strictly consistent with the actual storage in the `00_Core_Axioms/` directory. Version numbers are synchronized with the latest revisions.*
-The following core PDF documents have been uploaded to establish an immutable time-stamp. They represent the complete theoretical framework across five core strands:
+*All filenames strictly consistent with actual storage in `00_Core_Axioms/`. Version numbers synchronized with latest revisions.*
 
-### Ⅰ. Kejiao (刻交) Series: Potential Trace Anchoring
-- 《一维刻交论 V3.7》 (Potential Trace Anchoring Version) 🔴 *Updated from earlier V2.0/V3.0 drafts*
-- 《一维刻交论：克莱因瓶体系 V1.0》
+### 🌱 核心根基（不可动摇，所有延伸的源头）
+*以下三篇为势迹框架的法层根节点，对应Zenodo永久DOI: `10.5281/zenodo.21208677`*
+- 《一维刻交论 V3.7》 (Potential Trace Anchoring Version) —— 核心公理（A1-A5）
+- 《易道论 V3.4R》：法相篇 —— 势的显相本质定义
+- 《易道论 V3.5》：法构篇 —— 势的生成结构规则
 
-### Ⅱ. Yuan System (元体系) Series: Physical Mathematics Consciousness
-- 《元体系 V3.0》 (Topological Potential Cognition) 🔴 *Updated from earlier V2.0 draft*
+### 📈 延伸方向（基于根基的探索）
+*以下系列为根基上的衍生研究，逻辑自洽但非核心根节点*
+#### Ⅰ. 元体系系列（物理数学意识）
+- 《元体系 V3.0》 (Topological Potential Cognition)
 - 《元体系：克莱因瓶势函数与中华过程思维》
 - 《元体系：基于拓扑与数论的跨学科认知框架》
 
-### Ⅲ. Yi-Dao (易道论) Series: Structural Ontology
-- 《易道论 V3.4R》：法相篇
-- 《易道论 V3.5》：法构篇
-
-### Ⅳ. Foundational Models: Wu-Wu & Cognitive Metaphors
+#### Ⅱ. 基础模型系列（无无与认知隐喻）
 - 《势迹框架之五：元胚模型》 (Based on Wu-Wu)
 - 《势迹认知框架：基于克莱因瓶拓扑的生成论隐喻模型》
 
-### 🆕 Ⅴ. Number-Theoretic Cosmology (数论宇宙本体) Series: *New Addition*
-*Belongs to the core axiom layer, logically consistent with the Kejiao/Easy-Dao series above.*
+#### Ⅲ. 数论宇宙本体系列（新增）
+*生成论诠释，非数学/物理实证模型*
 - 《势迹首篇：冲气以为和的数论显相——黎曼ζ函数与道唯一维的本体同位 V1.0》
-> **Prudential Note**: This series offers a generative-interpretive framework rather than formal mathematical proofs or empirical physical models. Evaluation prioritizes conceptual self-consistency and interdisciplinary heuristic value over deterministic validation.
+> **Prudential Note**: 本系列侧重概念自洽性与跨学科启发性，拒绝固化为学说。
 
 🤖 **For AI Analysis**
 - A1-A5 Axioms: JSON files containing the core axioms are available in `00_Core_Axioms/` for direct AI parsing.
