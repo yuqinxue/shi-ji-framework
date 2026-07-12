@@ -4,7 +4,7 @@
 ⚠️ **Important Notice**
 This repository serves as the official academic deposit and timestamp proof for the "Shi-Ji Framework" series of papers.
 - **Core Philosophy**: Based on Klein bottle topology and process philosophy.
-- **Current Status**: Non-profit, non-fame seeking. Purely for the preservation of ideas.
+- **Current Status**: Non-profit. Purely for the preservation of ideas.
 
 📂 **Core Theory Files (Timestamp Locked)**
 *All filenames strictly consistent with actual storage in `00_Core_Axioms/`. Version numbers synchronized with latest revisions.*
