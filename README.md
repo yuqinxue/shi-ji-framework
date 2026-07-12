@@ -37,7 +37,7 @@ This repository serves as the official academic deposit and timestamp proof for 
 
 📜 **Academic Sovereignty**
 - Preprint: Pending submission/linkage with PSSXiv (Awaiting confirmation from `yuyin@ruc.edu.cn`).
-- Philosophy: "Do not seek fame, do not worry about food and clothing." This is a pure scholarly exploration.
+- Philosophy:This is a pure scholarly exploration.
 
 ---
 *Created by: Yuqinxue*
